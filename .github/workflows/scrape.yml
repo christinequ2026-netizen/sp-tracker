@@ -1,0 +1,54 @@
+name: Scrape Structured Products Data
+
+on:
+  # 每天北京时间早上8点和下午3点自动运行
+  schedule:
+    - cron: '0 0 * * *'   # UTC 00:00 = 北京 08:00
+    - cron: '0 7 * * *'   # UTC 07:00 = 北京 15:00
+  # 也可以手动触发
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r scripts/requirements.txt
+
+      - name: Run HKEX scraper
+        run: python scripts/scrape_hkex.py
+        continue-on-error: true
+
+      - name: Run SGX scraper
+        run: python scripts/scrape_sgx.py
+        continue-on-error: true
+
+      - name: Run UBS scraper
+        run: python scripts/scrape_ubs.py
+        continue-on-error: true
+
+      - name: Merge all data
+        run: python scripts/merge_data.py
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/data/
+          git diff --staged --quiet || git commit -m "chore: update structured products data [$(date '+%Y-%m-%d %H:%M')]"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
