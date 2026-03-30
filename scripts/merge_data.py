@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Merge scraped data from all sources into unified products.json + stats.json
-Sources: sgx_products.json, ubs_products.json
+Sources: sgx_products.json, ubs_products.json, macquarie_products.json
 """
 
 import json
@@ -11,8 +11,9 @@ from pathlib import Path
 DATA_DIR = Path(__file__).parent.parent / "src" / "data"
 
 SOURCE_FILES = {
-    "sgx": DATA_DIR / "sgx_products.json",
-    "ubs": DATA_DIR / "ubs_products.json",
+    "sgx":       DATA_DIR / "sgx_products.json",
+    "ubs":       DATA_DIR / "ubs_products.json",
+    "macquarie": DATA_DIR / "macquarie_products.json",
 }
 
 OUTPUT_FILE = DATA_DIR / "products.json"
