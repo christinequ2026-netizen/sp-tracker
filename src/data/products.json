@@ -38,6 +38,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032932.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-29T13:25:00Z",
     "tags": [
       "Morgan Stanley",
@@ -85,6 +86,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032707.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-27T11:32:00Z",
     "tags": [
       "BOCI",
@@ -149,6 +151,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032719.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-27T19:15:00Z",
     "tags": [
       "Société Générale",
@@ -198,6 +201,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032624.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-26T10:45:00Z",
     "tags": [
       "J.P. Morgan",
@@ -245,6 +249,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032656.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-26T07:19:00Z",
     "tags": [
       "Société Générale",
@@ -292,6 +297,7 @@
     "distanceToKnockOut": -7.8,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032544.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-25T07:42:00Z",
     "tags": [
       "Société Générale",
@@ -350,6 +356,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032417.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-24T13:53:00Z",
     "tags": [
       "Barclays",
@@ -418,6 +425,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032460.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-24T15:14:00Z",
     "tags": [
       "Goldman Sachs",
@@ -485,6 +493,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.sgx.com/announcements/2026/03/sgx-20260321-062.pdf",
     "sourceExchange": "sgx",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-21T13:21:00Z",
     "tags": [
       "BNP Paribas",
@@ -543,6 +552,7 @@
     "distanceToKnockOut": -3.6,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032166.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-21T14:38:00Z",
     "tags": [
       "J.P. Morgan",
@@ -592,6 +602,7 @@
     "distanceToKnockOut": 9.3,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026032008.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-20T16:05:00Z",
     "tags": [
       "Barclays",
@@ -641,6 +652,7 @@
     "distanceToKnockOut": 10.4,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031965.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-19T09:36:00Z",
     "tags": [
       "Deutsche Bank",
@@ -697,6 +709,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031740.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-17T19:13:00Z",
     "tags": [
       "J.P. Morgan",
@@ -744,6 +757,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031753.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-17T17:02:00Z",
     "tags": [
       "Nomura",
@@ -790,6 +804,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031533.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-15T12:04:00Z",
     "tags": [
       "Morgan Stanley",
@@ -837,6 +852,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031538.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-15T07:35:00Z",
     "tags": [
       "BNP Paribas",
@@ -893,6 +909,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031542.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-15T11:44:00Z",
     "tags": [
       "Nomura",
@@ -941,6 +958,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031570.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-15T19:22:00Z",
     "tags": [
       "Morgan Stanley",
@@ -998,6 +1016,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031451.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-14T11:12:00Z",
     "tags": [
       "Morgan Stanley",
@@ -1046,6 +1065,7 @@
     "distanceToKnockOut": -8.8,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031454.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-14T11:58:00Z",
     "tags": [
       "Citigroup",
@@ -1093,6 +1113,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.sgx.com/announcements/2026/03/sgx-20260312-030.pdf",
     "sourceExchange": "sgx",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-12T13:17:00Z",
     "tags": [
       "HSBC",
@@ -1142,6 +1163,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031003.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-10T14:40:00Z",
     "tags": [
       "HSBC",
@@ -1189,6 +1211,7 @@
     "distanceToKnockOut": -4.3,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026031037.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-10T10:13:00Z",
     "tags": [
       "Société Générale",
@@ -1244,6 +1267,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026030809.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-08T12:28:00Z",
     "tags": [
       "Citigroup",
@@ -1292,6 +1316,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.sgx.com/announcements/2026/03/sgx-20260307-014.pdf",
     "sourceExchange": "sgx",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-07T10:37:00Z",
     "tags": [
       "Citigroup",
@@ -1358,6 +1383,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026030511.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-05T08:03:00Z",
     "tags": [
       "Société Générale",
@@ -1406,6 +1432,7 @@
     "distanceToKnockOut": 9.7,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/03/na2026030567.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-03-05T09:48:00Z",
     "tags": [
       "BNP Paribas",
@@ -1462,6 +1489,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022726.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-27T19:33:00Z",
     "tags": [
       "Citigroup",
@@ -1527,6 +1555,7 @@
     "distanceToKnockOut": -11.9,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022772.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-27T12:45:00Z",
     "tags": [
       "J.P. Morgan",
@@ -1574,6 +1603,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022661.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-26T16:09:00Z",
     "tags": [
       "UBS",
@@ -1639,6 +1669,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022577.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-25T14:55:00Z",
     "tags": [
       "Citigroup",
@@ -1687,6 +1718,7 @@
     "distanceToKnockOut": 4.7,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022427.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-24T14:26:00Z",
     "tags": [
       "Morgan Stanley",
@@ -1753,6 +1785,7 @@
     "distanceToKnockOut": 1.7,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022443.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-24T08:30:00Z",
     "tags": [
       "BNP Paribas",
@@ -1810,6 +1843,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022450.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-24T20:24:00Z",
     "tags": [
       "Deutsche Bank",
@@ -1859,6 +1893,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022323.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-23T17:40:00Z",
     "tags": [
       "BNP Paribas",
@@ -1906,6 +1941,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022115.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-21T08:00:00Z",
     "tags": [
       "Macquarie",
@@ -1953,6 +1989,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022134.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-21T19:30:00Z",
     "tags": [
       "Société Générale",
@@ -2009,6 +2046,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022048.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-20T15:58:00Z",
     "tags": [
       "HSBC",
@@ -2066,6 +2104,7 @@
     "distanceToKnockOut": 3.8,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026022049.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-20T08:48:00Z",
     "tags": [
       "Haitong Intl",
@@ -2122,6 +2161,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021728.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-17T19:38:00Z",
     "tags": [
       "Deutsche Bank",
@@ -2170,6 +2210,7 @@
     "distanceToKnockOut": 14.3,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021613.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-16T12:03:00Z",
     "tags": [
       "UBS",
@@ -2218,6 +2259,7 @@
     "distanceToKnockOut": -1.9,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021406.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-14T15:55:00Z",
     "tags": [
       "Macquarie",
@@ -2283,6 +2325,7 @@
     "distanceToKnockOut": 7.2,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021422.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-14T15:53:00Z",
     "tags": [
       "Haitong Intl",
@@ -2331,6 +2374,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021304.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-13T19:49:00Z",
     "tags": [
       "Goldman Sachs",
@@ -2378,6 +2422,7 @@
     "distanceToKnockOut": -5.6,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021364.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-13T16:14:00Z",
     "tags": [
       "J.P. Morgan",
@@ -2434,6 +2479,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021155.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-11T16:24:00Z",
     "tags": [
       "Citigroup",
@@ -2483,6 +2529,7 @@
     "distanceToKnockOut": -3.5,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026021074.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-10T08:19:00Z",
     "tags": [
       "Société Générale",
@@ -2530,6 +2577,7 @@
     "distanceToKnockOut": 7.2,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026020935.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-09T11:56:00Z",
     "tags": [
       "Deutsche Bank",
@@ -2586,6 +2634,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026020805.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-08T18:37:00Z",
     "tags": [
       "Deutsche Bank",
@@ -2642,6 +2691,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026020576.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-05T12:43:00Z",
     "tags": [
       "Goldman Sachs",
@@ -2699,6 +2749,7 @@
     "distanceToKnockOut": 13.8,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026020478.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-04T08:53:00Z",
     "tags": [
       "J.P. Morgan",
@@ -2749,6 +2800,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/02/na2026020229.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-02-02T16:34:00Z",
     "tags": [
       "Citigroup",
@@ -2796,6 +2848,7 @@
     "distanceToKnockOut": 7.3,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026013131.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-31T14:42:00Z",
     "tags": [
       "Deutsche Bank",
@@ -2843,6 +2896,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026013001.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-30T10:45:00Z",
     "tags": [
       "UBS",
@@ -2890,6 +2944,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026013010.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-30T08:57:00Z",
     "tags": [
       "Citigroup",
@@ -2946,6 +3001,7 @@
     "distanceToKnockOut": -0.2,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026013012.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-30T10:55:00Z",
     "tags": [
       "Société Générale",
@@ -2993,6 +3049,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026013025.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-30T10:58:00Z",
     "tags": [
       "Citigroup",
@@ -3040,6 +3097,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026012957.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-29T07:44:00Z",
     "tags": [
       "J.P. Morgan",
@@ -3095,6 +3153,7 @@
     "distanceToKnockOut": 15.5,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026012958.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-29T12:15:00Z",
     "tags": [
       "Citigroup",
@@ -3151,6 +3210,7 @@
     "distanceToKnockOut": -8.7,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026012971.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-29T16:03:00Z",
     "tags": [
       "Deutsche Bank",
@@ -3209,6 +3269,7 @@
     "distanceToKnockOut": -9.0,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026012702.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-27T18:29:00Z",
     "tags": [
       "Barclays",
@@ -3256,6 +3317,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011941.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-19T10:59:00Z",
     "tags": [
       "BNP Paribas",
@@ -3312,6 +3374,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011946.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-19T15:09:00Z",
     "tags": [
       "Morgan Stanley",
@@ -3378,6 +3441,7 @@
     "distanceToKnockOut": 9.4,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011679.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-16T10:26:00Z",
     "tags": [
       "Société Générale",
@@ -3444,6 +3508,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011518.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-15T19:55:00Z",
     "tags": [
       "UBS",
@@ -3491,6 +3556,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011575.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-15T10:14:00Z",
     "tags": [
       "BOCI",
@@ -3547,6 +3613,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011220.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-12T17:32:00Z",
     "tags": [
       "Nomura",
@@ -3595,6 +3662,7 @@
     "distanceToKnockOut": -8.2,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011239.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-12T11:05:00Z",
     "tags": [
       "Goldman Sachs",
@@ -3642,6 +3710,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011252.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-12T20:57:00Z",
     "tags": [
       "Deutsche Bank",
@@ -3698,6 +3767,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026011163.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-11T15:35:00Z",
     "tags": [
       "HSBC",
@@ -3746,6 +3816,7 @@
     "distanceToKnockOut": -5.4,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010816.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-08T15:00:00Z",
     "tags": [
       "Macquarie",
@@ -3801,6 +3872,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010869.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-08T08:27:00Z",
     "tags": [
       "UBS",
@@ -3858,6 +3930,7 @@
     "distanceToKnockOut": 7.2,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010747.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-07T10:44:00Z",
     "tags": [
       "Macquarie",
@@ -3906,6 +3979,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010759.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-07T09:34:00Z",
     "tags": [
       "Nomura",
@@ -3961,6 +4035,7 @@
     "distanceToKnockOut": 2.4,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010780.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-07T15:34:00Z",
     "tags": [
       "Macquarie",
@@ -4010,6 +4085,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010545.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-05T07:40:00Z",
     "tags": [
       "Citigroup",
@@ -4057,6 +4133,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010473.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-04T07:50:00Z",
     "tags": [
       "BOCI",
@@ -4124,6 +4201,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2026/01/na2026010221.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2026-01-02T19:34:00Z",
     "tags": [
       "Deutsche Bank",
@@ -4184,6 +4262,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2025/12/na2025123136.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2025-12-31T10:19:00Z",
     "tags": [
       "BNP Paribas",
@@ -4232,6 +4311,7 @@
     "distanceToKnockOut": null,
     "sourceUrl": "https://www.hkexnews.hk/announcements/2025/12/na2025123068.pdf",
     "sourceExchange": "hkex",
+    "dataSource": "demo",
     "scrapedAt": "2025-12-30T20:47:00Z",
     "tags": [
       "Société Générale",

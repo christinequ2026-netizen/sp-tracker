@@ -429,6 +429,7 @@ def generate_product(seq: int, ref_date: date) -> dict:
         "distanceToKnockOut": distance_to_ko,
         "sourceUrl":       source_url,
         "sourceExchange":  exchange,
+        "dataSource":      "demo",
         "scrapedAt":       scraped_at,
         "tags":            tags,
     }
