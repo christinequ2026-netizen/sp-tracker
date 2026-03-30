@@ -1,19 +1,44 @@
 {
-  "lastUpdated": "2026-03-30T08:18:17.783541",
-  "totalProducts": 15,
-  "activeProducts": 15,
-  "knockedIn": 0,
+  "lastUpdated": "2026-03-30T22:24:54.661920",
+  "totalProducts": 80,
+  "activeProducts": 70,
+  "knockedIn": 9,
   "newToday": 0,
   "byExchange": {
-    "sgx": 15
+    "hkex": 77,
+    "sgx": 3
   },
   "byProductType": {
-    "Warrant": 15
+    "fcn": 18,
+    "cbbc": 3,
+    "eln": 8,
+    "reverse_convertible": 7,
+    "acn": 19,
+    "phoenix": 13,
+    "snowball": 4,
+    "shark_fin": 5,
+    "warrant": 3
   },
   "byIssuer": {
-    "macquarie": 15
+    "Morgan Stanley": 6,
+    "BOCI": 3,
+    "Société Générale": 10,
+    "J.P. Morgan": 7,
+    "Barclays": 3,
+    "Goldman Sachs": 4,
+    "BNP Paribas": 7,
+    "Deutsche Bank": 9,
+    "Nomura": 4,
+    "Citigroup": 11,
+    "HSBC": 4,
+    "UBS": 5,
+    "Macquarie": 5,
+    "Haitong Intl": 2
   },
   "byCurrency": {
-    "SGD": 15
+    "USD": 33,
+    "HKD": 39,
+    "SGD": 3,
+    "CNH": 5
   }
 }

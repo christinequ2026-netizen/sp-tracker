@@ -2,6 +2,7 @@
 """
 Merge scraped data from all sources into unified products.json + stats.json
 Sources: sgx_products.json, ubs_products.json, macquarie_products.json
+         + existing products.json (preserves seed / previously scraped data)
 """
 
 import json
@@ -19,6 +20,9 @@ SOURCE_FILES = {
 OUTPUT_FILE = DATA_DIR / "products.json"
 STATS_FILE  = DATA_DIR / "stats.json"
 
+# IDs that come from seed data start with these prefixes — preserved in merge
+SEED_SOURCES = {"hkex", "sgx", "jpx", "krx", "twse", "other"}
+
 
 def merge_all_sources():
     """Merge products from all sources, deduplicate, sort, and save."""
@@ -27,7 +31,17 @@ def merge_all_sources():
     print(f"Time: {datetime.now().isoformat()}")
     print("=" * 50)
 
-    all_products = []
+    # Load existing products.json as base (includes seed data + previous scrapes)
+    existing_products = []
+    if OUTPUT_FILE.exists():
+        try:
+            with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
+                existing_products = json.load(f)
+            print(f"  existing products.json: {len(existing_products)} products (base)")
+        except Exception as e:
+            print(f"  existing products.json: error reading ({e})")
+
+    all_products = list(existing_products)
 
     for source, filepath in SOURCE_FILES.items():
         if filepath.exists():
