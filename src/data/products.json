@@ -1,0 +1,587 @@
+[
+  {
+    "id": "SGX-NEW-IGYW",
+    "productName": "TencentMBeCW261005",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-01",
+    "maturityDate": "2026-10-05",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 30000000.0,
+    "strike": 575.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "0700.HK",
+        "name": "0700.HK",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=IGYW",
+    "scrapedAt": "2026-03-30T01:53:55.936026",
+    "lastUpdated": "2026-03-30T01:53:55.936026"
+  },
+  {
+    "id": "SGX-NEW-KZAW",
+    "productName": "DBS MB eCW260929",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-01",
+    "maturityDate": "2026-09-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 12000000.0,
+    "strike": 60.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "30:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "D05",
+        "name": "D05",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=KZAW",
+    "scrapedAt": "2026-03-30T01:53:55.936047",
+    "lastUpdated": "2026-03-30T01:53:55.936047"
+  },
+  {
+    "id": "SGX-NEW-NFUW",
+    "productName": "SGX MB eCW260929",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-01",
+    "maturityDate": "2026-09-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 11000000.0,
+    "strike": 21.5,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "25:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "S68",
+        "name": "S68",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=NFUW",
+    "scrapedAt": "2026-03-30T01:53:55.936054",
+    "lastUpdated": "2026-03-30T01:53:55.936054"
+  },
+  {
+    "id": "SGX-NEW-NNTW",
+    "productName": "Alibaba MB eCW261005",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-01",
+    "maturityDate": "2026-10-05",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 30000000.0,
+    "strike": 155.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "40:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "9988.HK",
+        "name": "9988.HK",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=NNTW",
+    "scrapedAt": "2026-03-30T01:53:55.936059",
+    "lastUpdated": "2026-03-30T01:53:55.936059"
+  },
+  {
+    "id": "SGX-NEW-XV4W",
+    "productName": "HSI 26400MBeCW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-27",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 42000000.0,
+    "strike": 26400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=XV4W",
+    "scrapedAt": "2026-03-30T01:53:55.936063",
+    "lastUpdated": "2026-03-30T01:53:55.936063"
+  },
+  {
+    "id": "SGX-NEW-TBPW",
+    "productName": "NIO MBeCW260826",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-18",
+    "maturityDate": "2026-08-26",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 14000000.0,
+    "strike": 7.5,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "20:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "NIO",
+        "name": "NIO",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=TBPW",
+    "scrapedAt": "2026-03-30T01:53:55.936068",
+    "lastUpdated": "2026-03-30T01:53:55.936068"
+  },
+  {
+    "id": "SGX-NEW-96LW",
+    "productName": "HSI 21400MBePW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-16",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 35000000.0,
+    "strike": 21400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=96LW",
+    "scrapedAt": "2026-03-30T01:53:55.936072",
+    "lastUpdated": "2026-03-30T01:53:55.936072"
+  },
+  {
+    "id": "SGX-NEW-9GPW",
+    "productName": "S&P 5800MBePW260918",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-13",
+    "maturityDate": "2026-09-18",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 22000000.0,
+    "strike": 5800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "4000:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".SPX",
+        "name": "SPX",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=9GPW",
+    "scrapedAt": "2026-03-30T01:53:55.936081",
+    "lastUpdated": "2026-03-30T01:53:55.936081"
+  },
+  {
+    "id": "SGX-NEW-ITEW",
+    "productName": "S&P 7000MBeCW260918",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-13",
+    "maturityDate": "2026-09-18",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 18000000.0,
+    "strike": 7000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "4000:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".SPX",
+        "name": "SPX",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=ITEW",
+    "scrapedAt": "2026-03-30T01:53:55.936100",
+    "lastUpdated": "2026-03-30T01:53:55.936100"
+  },
+  {
+    "id": "SGX-NEW-NDJW",
+    "productName": "HSI 22800MBePW260429",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-10",
+    "maturityDate": "2026-04-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 33000000.0,
+    "strike": 22800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=NDJW",
+    "scrapedAt": "2026-03-30T01:53:55.936106",
+    "lastUpdated": "2026-03-30T01:53:55.936106"
+  },
+  {
+    "id": "SGX-NEW-5V2W",
+    "productName": "HSI 26800MBeCW260429",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-10",
+    "maturityDate": "2026-04-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 42000000.0,
+    "strike": 26800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=5V2W",
+    "scrapedAt": "2026-03-30T01:53:55.936110",
+    "lastUpdated": "2026-03-30T01:53:55.936110"
+  },
+  {
+    "id": "SGX-NEW-FOEW",
+    "productName": "HSI 22400MBePW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-06",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 33000000.0,
+    "strike": 22400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=FOEW",
+    "scrapedAt": "2026-03-30T01:53:55.936113",
+    "lastUpdated": "2026-03-30T01:53:55.936113"
+  },
+  {
+    "id": "SGX-NEW-NZZW",
+    "productName": "HSI 28400MBeCW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-06",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 39000000.0,
+    "strike": 28400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=NZZW",
+    "scrapedAt": "2026-03-30T01:53:55.936117",
+    "lastUpdated": "2026-03-30T01:53:55.936117"
+  },
+  {
+    "id": "SGX-NEW-Y9AW",
+    "productName": "HSI 25800MBePW260429",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-03",
+    "maturityDate": "2026-04-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 29000000.0,
+    "strike": 25800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=Y9AW",
+    "scrapedAt": "2026-03-30T01:53:55.936120",
+    "lastUpdated": "2026-03-30T01:53:55.936120"
+  },
+  {
+    "id": "SGX-NEW-59HW",
+    "productName": "HSI 27800MBeCW260429",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-03-03",
+    "maturityDate": "2026-04-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 40000000.0,
+    "strike": 27800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=59HW",
+    "scrapedAt": "2026-03-30T01:53:55.936123",
+    "lastUpdated": "2026-03-30T01:53:55.936123"
+  }
+]

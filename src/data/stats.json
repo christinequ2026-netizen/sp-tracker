@@ -1,0 +1,19 @@
+{
+  "lastUpdated": "2026-03-30T01:53:56.353748",
+  "totalProducts": 15,
+  "activeProducts": 15,
+  "knockedIn": 0,
+  "newToday": 0,
+  "byExchange": {
+    "sgx": 15
+  },
+  "byProductType": {
+    "Warrant": 15
+  },
+  "byIssuer": {
+    "macquarie": 15
+  },
+  "byCurrency": {
+    "SGD": 15
+  }
+}
