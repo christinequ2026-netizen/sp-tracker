@@ -5,6 +5,7 @@ const translations: Record<string, Record<string, string>> = {
   "nav.issuers": { zh: "发行商", en: "Issuers" },
   "nav.exchanges": { zh: "交易所", en: "Exchanges" },
   "nav.analytics": { zh: "数据分析", en: "Analytics" },
+  "nav.education": { zh: "教育中心", en: "Education" },
 
   // Header
   "header.live": { zh: "实时", en: "LIVE" },
