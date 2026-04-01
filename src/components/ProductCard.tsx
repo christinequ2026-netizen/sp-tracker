@@ -48,7 +48,7 @@ export default function ProductCard({ product }: Props) {
   const maturityDays = daysUntil(product.maturityDate);
 
   // Data source badge
-  const dsKey = (product as Record<string, unknown>).dataSource as string | undefined;
+  const dsKey = (product as unknown as Record<string, unknown>).dataSource as string | undefined;
   const srcBadge = dsKey ? SOURCE_BADGE[dsKey] : null;
 
   const statusLabels: Record<string, string> = {
