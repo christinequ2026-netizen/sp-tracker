@@ -25,10 +25,6 @@ jobs:
         run: |
           pip install -r scripts/requirements.txt
 
-      - name: Generate seed data (one-time base, skipped if ≥20 products exist)
-        run: python scripts/generate_seed_data.py --count 80
-        continue-on-error: true
-
       - name: Run SGX scraper
         run: python scripts/scrape_sgx.py
         continue-on-error: true

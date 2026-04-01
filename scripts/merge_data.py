@@ -2,7 +2,9 @@
 """
 Merge scraped data from all sources into unified products.json + stats.json
 Sources: sgx_products.json, ubs_products.json, macquarie_products.json
-         + existing products.json (preserves seed / previously scraped data)
+
+Only real scraped data (dataSource != 'demo') is preserved from the existing
+products.json. Demo/seed data is discarded on each merge run.
 """
 
 import json
@@ -20,9 +22,6 @@ SOURCE_FILES = {
 OUTPUT_FILE = DATA_DIR / "products.json"
 STATS_FILE  = DATA_DIR / "stats.json"
 
-# IDs that come from seed data start with these prefixes — preserved in merge
-SEED_SOURCES = {"hkex", "sgx", "jpx", "krx", "twse", "other"}
-
 
 def merge_all_sources():
     """Merge products from all sources, deduplicate, sort, and save."""
@@ -31,17 +30,20 @@ def merge_all_sources():
     print(f"Time: {datetime.now().isoformat()}")
     print("=" * 50)
 
-    # Load existing products.json as base (includes seed data + previous scrapes)
-    existing_products = []
+    # Load existing products.json — but only keep real (non-demo) data
+    existing_real = []
     if OUTPUT_FILE.exists():
         try:
             with open(OUTPUT_FILE, "r", encoding="utf-8") as f:
-                existing_products = json.load(f)
-            print(f"  existing products.json: {len(existing_products)} products (base)")
+                existing_all = json.load(f)
+            existing_real = [p for p in existing_all if p.get("dataSource") != "demo"]
+            skipped = len(existing_all) - len(existing_real)
+            print(f"  existing products.json: {len(existing_real)} real products "
+                  f"(+ {skipped} demo discarded)")
         except Exception as e:
             print(f"  existing products.json: error reading ({e})")
 
-    all_products = list(existing_products)
+    all_products = list(existing_real)
 
     for source, filepath in SOURCE_FILES.items():
         if filepath.exists():

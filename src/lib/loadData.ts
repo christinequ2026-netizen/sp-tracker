@@ -163,13 +163,13 @@ function deriveStats(
 export function loadProducts(): StructuredProduct[] {
   try {
     const filePath = path.join(DATA_DIR, 'products.json');
-    if (!fs.existsSync(filePath)) return mockProducts;
+    if (!fs.existsSync(filePath)) return [];
     const raw: Record<string, unknown>[] = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-    if (!Array.isArray(raw) || raw.length === 0) return mockProducts;
+    if (!Array.isArray(raw)) return [];
     return raw.map(normalizeProduct).filter((p) => p.id && p.productName);
   } catch (err) {
     console.error('[loadData] Failed to load products.json:', err);
-    return mockProducts;
+    return [];
   }
 }
 
@@ -185,8 +185,5 @@ export function loadStats(products?: StructuredProduct[]): DashboardStats {
   }
 
   const resolvedProducts = products ?? loadProducts();
-  if (Object.keys(rawStats).length === 0 && resolvedProducts === mockProducts) {
-    return mockStats;
-  }
   return deriveStats(resolvedProducts, rawStats);
 }
