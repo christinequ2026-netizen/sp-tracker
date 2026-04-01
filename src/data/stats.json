@@ -1,16 +1,16 @@
 {
-  "lastUpdated": "2026-03-31T08:03:15.194286",
-  "totalProducts": 121,
-  "activeProducts": 111,
+  "lastUpdated": "2026-04-01T02:51:58.371334",
+  "totalProducts": 135,
+  "activeProducts": 125,
   "knockedIn": 9,
-  "newToday": 0,
+  "newToday": 4,
   "byExchange": {
-    "hkex": 103,
-    "sgx": 18
+    "hkex": 113,
+    "sgx": 22
   },
   "byProductType": {
-    "warrant": 29,
-    "Warrant": 15,
+    "warrant": 39,
+    "Warrant": 19,
     "fcn": 18,
     "cbbc": 3,
     "eln": 8,
@@ -21,7 +21,7 @@
     "shark_fin": 5
   },
   "byIssuer": {
-    "macquarie": 46,
+    "macquarie": 60,
     "morgan_stanley": 6,
     "boci": 3,
     "societe_generale": 10,
@@ -37,8 +37,8 @@
     "htisec": 2
   },
   "byCurrency": {
-    "HKD": 65,
-    "SGD": 18,
+    "HKD": 75,
+    "SGD": 22,
     "USD": 33,
     "CNH": 5
   }
