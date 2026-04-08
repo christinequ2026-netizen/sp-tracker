@@ -1,5 +1,85 @@
 [
   {
+    "id": "HKEX-28062",
+    "productName": "HK Warrant 28062 CALL 思摩爾國際",
+    "productNameZh": "思摩麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-10",
+    "maturityDate": "2027-04-10",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 13.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.2,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "6969",
+        "name": "思摩爾國際",
+        "nameZh": "思摩爾國際",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28062",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-08T02:42:07.348642Z"
+  },
+  {
+    "id": "HKEX-28096",
+    "productName": "HK Warrant 28096 CALL 匯聚科技",
+    "productNameZh": "匯聚麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-10",
+    "maturityDate": "2027-04-10",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 28.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1729",
+        "name": "匯聚科技",
+        "nameZh": "匯聚科技",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28096",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-08T02:42:07.348642Z"
+  },
+  {
     "id": "HKEX-28032",
     "productName": "HK Warrant 28032 PUT 華夏滬深三百",
     "productNameZh": "夏三麥銀六乙沽A",
