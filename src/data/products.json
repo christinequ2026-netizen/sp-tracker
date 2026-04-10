@@ -1,5 +1,122 @@
 [
   {
+    "id": "SGX-NEW-HFFW",
+    "productName": "HSI 24400MBePW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-14",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 31000000.0,
+    "strike": 24400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=HFFW",
+    "scrapedAt": "2026-04-10T02:48:50.860959",
+    "lastUpdated": "2026-04-10T02:48:50.860959"
+  },
+  {
+    "id": "SGX-NEW-RLKW",
+    "productName": "HSI 23400MBePW260528",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-14",
+    "maturityDate": "2026-05-28",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 32000000.0,
+    "strike": 23400.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=RLKW",
+    "scrapedAt": "2026-04-10T02:48:50.860979",
+    "lastUpdated": "2026-04-10T02:48:50.860979"
+  },
+  {
+    "id": "SGX-NEW-YDAW",
+    "productName": "HSI 22800MBePW260629",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-14",
+    "maturityDate": "2026-06-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 33000000.0,
+    "strike": 22800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YDAW",
+    "scrapedAt": "2026-04-10T02:48:50.860985",
+    "lastUpdated": "2026-04-10T02:48:50.860985"
+  },
+  {
     "id": "HKEX-28062",
     "productName": "HK Warrant 28062 CALL 思摩爾國際",
     "productNameZh": "思摩麥銀六十購A",

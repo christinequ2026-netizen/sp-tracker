@@ -1554,10 +1554,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28062",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28062",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-09T08:14:30.367051Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260408143509.pdf",
+    "scrapedAt": "2026-04-10T02:48:51.473384Z"
   },
   {
     "id": "HKEX-28096",
@@ -1594,9 +1594,9 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28096",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28096",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-09T08:14:30.367051Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260408143509.pdf",
+    "scrapedAt": "2026-04-10T02:48:51.473384Z"
   }
 ]
