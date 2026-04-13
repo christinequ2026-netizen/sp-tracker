@@ -1,5 +1,399 @@
 [
   {
+    "id": "SGX-NEW-LQCW",
+    "productName": "NKY 50000MBePW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 21000000.0,
+    "strike": 50000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=LQCW",
+    "scrapedAt": "2026-04-13T02:56:46.690632",
+    "lastUpdated": "2026-04-13T02:56:46.690632"
+  },
+  {
+    "id": "SGX-NEW-V5PW",
+    "productName": "NKY 62000MBeCW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 17000000.0,
+    "strike": 62000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=V5PW",
+    "scrapedAt": "2026-04-13T02:56:46.690653",
+    "lastUpdated": "2026-04-13T02:56:46.690653"
+  },
+  {
+    "id": "SGX-NEW-XDBW",
+    "productName": "NKY 52000MBeCW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 52000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=XDBW",
+    "scrapedAt": "2026-04-13T02:56:46.690659",
+    "lastUpdated": "2026-04-13T02:56:46.690659"
+  },
+  {
+    "id": "SGX-NEW-YHSW",
+    "productName": "NKY 55000MBePW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 18000000.0,
+    "strike": 55000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YHSW",
+    "scrapedAt": "2026-04-13T02:56:46.690664",
+    "lastUpdated": "2026-04-13T02:56:46.690664"
+  },
+  {
+    "id": "SGX-NEW-YK7W",
+    "productName": "NKY 45000MBePW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 23000000.0,
+    "strike": 45000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YK7W",
+    "scrapedAt": "2026-04-13T02:56:46.690706",
+    "lastUpdated": "2026-04-13T02:56:46.690706"
+  },
+  {
+    "id": "SGX-NEW-XYWW",
+    "productName": "NKY 57000MBeCW260911",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-15",
+    "maturityDate": "2026-09-11",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 18000000.0,
+    "strike": 57000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".N225",
+        "name": "N225",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=XYWW",
+    "scrapedAt": "2026-04-13T02:56:46.690719",
+    "lastUpdated": "2026-04-13T02:56:46.690719"
+  },
+  {
+    "id": "HKEX-28160",
+    "productName": "HK Warrant 28160 CALL 海螺創業",
+    "productNameZh": "海創麥銀六甲購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-15",
+    "maturityDate": "2027-04-15",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 18.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.2,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0586",
+        "name": "海螺創業",
+        "nameZh": "海螺創業",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28160",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-13T02:56:47.217237Z"
+  },
+  {
+    "id": "HKEX-28161",
+    "productName": "HK Warrant 28161 CALL 贛鋒鋰業",
+    "productNameZh": "贛鋒麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-15",
+    "maturityDate": "2027-04-15",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 111.111,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1772",
+        "name": "贛鋒鋰業",
+        "nameZh": "贛鋒鋰業",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28161",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-13T02:56:47.217237Z"
+  },
+  {
+    "id": "HKEX-28162",
+    "productName": "HK Warrant 28162 CALL 耀才證券金融",
+    "productNameZh": "耀才麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-15",
+    "maturityDate": "2027-04-15",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 22.222,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1428",
+        "name": "耀才證券金融",
+        "nameZh": "耀才證券金融",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28162",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-13T02:56:47.217237Z"
+  },
+  {
+    "id": "HKEX-28163",
+    "productName": "HK Warrant 28163 CALL 長飛光纖光纜",
+    "productNameZh": "長飛麥銀七三購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-15",
+    "maturityDate": "2027-04-15",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 333.333,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "6869",
+        "name": "長飛光纖光纜",
+        "nameZh": "長飛光纖光纜",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28163",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-13T02:56:47.217237Z"
+  },
+  {
     "id": "SGX-NEW-HFFW",
     "productName": "HSI 24400MBePW260528",
     "productType": "Warrant",
