@@ -1,5 +1,359 @@
 [
   {
+    "id": "SGX-NEW-FNVW",
+    "productName": "SIA MB eCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 7.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "C6L",
+        "name": "C6L",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=FNVW",
+    "scrapedAt": "2026-04-15T02:47:23.673457",
+    "lastUpdated": "2026-04-15T02:47:23.673457"
+  },
+  {
+    "id": "SGX-NEW-MPEW",
+    "productName": "SATS MB eCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 3.88,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "S58",
+        "name": "S58",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=MPEW",
+    "scrapedAt": "2026-04-15T02:47:23.673482",
+    "lastUpdated": "2026-04-15T02:47:23.673482"
+  },
+  {
+    "id": "SGX-NEW-SYOW",
+    "productName": "XIAOMI MBeCW261103",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-11-03",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 14000000.0,
+    "strike": 36.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "12:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "1810.HK",
+        "name": "1810.HK",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=SYOW",
+    "scrapedAt": "2026-04-15T02:47:23.673489",
+    "lastUpdated": "2026-04-15T02:47:23.673489"
+  },
+  {
+    "id": "SGX-NEW-WDHW",
+    "productName": "Seatrium MB eCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 3.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "5E2",
+        "name": "5E2",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=WDHW",
+    "scrapedAt": "2026-04-15T02:47:23.673493",
+    "lastUpdated": "2026-04-15T02:47:23.673493"
+  },
+  {
+    "id": "SGX-NEW-YTMW",
+    "productName": "STEng MBeCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 10000000.0,
+    "strike": 12.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "20:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "S63",
+        "name": "S63",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YTMW",
+    "scrapedAt": "2026-04-15T02:47:23.673498",
+    "lastUpdated": "2026-04-15T02:47:23.673498"
+  },
+  {
+    "id": "SGX-NEW-ZLBW",
+    "productName": "YangzijiMBeCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-17",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 15000000.0,
+    "strike": 5.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "BS6",
+        "name": "BS6",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=ZLBW",
+    "scrapedAt": "2026-04-15T02:47:23.673503",
+    "lastUpdated": "2026-04-15T02:47:23.673503"
+  },
+  {
+    "id": "HKEX-28236",
+    "productName": "HK Warrant 28236 CALL 天齊鋰業",
+    "productNameZh": "天齊麥銀六乙購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 76.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "9696",
+        "name": "天齊鋰業",
+        "nameZh": "天齊鋰業",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28236",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
+    "id": "HKEX-28237",
+    "productName": "HK Warrant 28237 CALL 廣發証券",
+    "productNameZh": "廣發麥銀七二購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 24.68,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1776",
+        "name": "廣發証券",
+        "nameZh": "廣發証券",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28237",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
+    "id": "HKEX-28253",
+    "productName": "HK Warrant 28253 CALL 蔚來－ＳＷ",
+    "productNameZh": "蔚來麥銀七三購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 70.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "9866",
+        "name": "蔚來－ＳＷ",
+        "nameZh": "蔚來－ＳＷ",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28253",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
     "id": "HKEX-28214",
     "productName": "HK Warrant 28214 CALL 國泰君安國際",
     "productNameZh": "國君麥銀七六購A",

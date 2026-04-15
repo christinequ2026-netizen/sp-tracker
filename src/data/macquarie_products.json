@@ -1634,10 +1634,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28160",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28160",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260413162611.pdf",
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   },
   {
     "id": "HKEX-28161",
@@ -1674,10 +1674,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28161",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28161",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260413162611.pdf",
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   },
   {
     "id": "HKEX-28162",
@@ -1714,10 +1714,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28162",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28162",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260413162611.pdf",
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   },
   {
     "id": "HKEX-28163",
@@ -1754,10 +1754,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28163",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28163",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260413162611.pdf",
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   },
   {
     "id": "HKEX-28214",
@@ -1797,7 +1797,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28214",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   },
   {
     "id": "HKEX-28203",
@@ -1837,6 +1837,126 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28203",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-14T08:22:12.986603Z"
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
+    "id": "HKEX-28236",
+    "productName": "HK Warrant 28236 CALL 天齊鋰業",
+    "productNameZh": "天齊麥銀六乙購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 76.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "9696",
+        "name": "天齊鋰業",
+        "nameZh": "天齊鋰業",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28236",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
+    "id": "HKEX-28237",
+    "productName": "HK Warrant 28237 CALL 廣發証券",
+    "productNameZh": "廣發麥銀七二購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 24.68,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1776",
+        "name": "廣發証券",
+        "nameZh": "廣發証券",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28237",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
+  },
+  {
+    "id": "HKEX-28253",
+    "productName": "HK Warrant 28253 CALL 蔚來－ＳＷ",
+    "productNameZh": "蔚來麥銀七三購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-17",
+    "maturityDate": "2027-04-17",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 70.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "9866",
+        "name": "蔚來－ＳＷ",
+        "nameZh": "蔚來－ＳＷ",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28253",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-15T02:47:24.507986Z"
   }
 ]
