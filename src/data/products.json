@@ -1,5 +1,125 @@
 [
   {
+    "id": "HKEX-28318",
+    "productName": "HK Warrant 28318 PUT 吉利汽車",
+    "productNameZh": "吉利麥銀六十沽A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-21",
+    "maturityDate": "2027-04-21",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 19.999,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "put",
+    "underlyings": [
+      {
+        "ticker": "0175",
+        "name": "吉利汽車",
+        "nameZh": "吉利汽車",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Put"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28318",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-17T02:50:23.836492Z"
+  },
+  {
+    "id": "HKEX-28320",
+    "productName": "HK Warrant 28320 PUT 泡泡瑪特",
+    "productNameZh": "泡瑪麥銀六十沽A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-21",
+    "maturityDate": "2027-04-21",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 143.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.01,
+    "callPut": "put",
+    "underlyings": [
+      {
+        "ticker": "9992",
+        "name": "泡泡瑪特",
+        "nameZh": "泡泡瑪特",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Put"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28320",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-17T02:50:23.836492Z"
+  },
+  {
+    "id": "HKEX-28332",
+    "productName": "HK Warrant 28332 PUT 寧德時代",
+    "productNameZh": "寧德麥銀七六沽A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-21",
+    "maturityDate": "2027-04-21",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 555.555,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "put",
+    "underlyings": [
+      {
+        "ticker": "3750",
+        "name": "寧德時代",
+        "nameZh": "寧德時代",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Put"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28332",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-17T02:50:23.836492Z"
+  },
+  {
     "id": "SGX-NEW-FNVW",
     "productName": "SIA MB eCW260930",
     "productType": "Warrant",
