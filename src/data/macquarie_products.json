@@ -1997,7 +1997,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28318",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-19T08:02:24.871407Z"
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
   },
   {
     "id": "HKEX-28320",
@@ -2037,7 +2037,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28320",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-19T08:02:24.871407Z"
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
   },
   {
     "id": "HKEX-28332",
@@ -2077,6 +2077,86 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28332",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-19T08:02:24.871407Z"
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
+  },
+  {
+    "id": "HKEX-28369",
+    "productName": "HK Warrant 28369 CALL 白馬戶外媒體",
+    "productNameZh": "稀宇麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-22",
+    "maturityDate": "2027-04-22",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 2468.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0100",
+        "name": "白馬戶外媒體",
+        "nameZh": "白馬戶外媒體",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28369",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
+  },
+  {
+    "id": "HKEX-28373",
+    "productName": "HK Warrant 28373 CALL CMHI FIN N1503",
+    "productNameZh": "智譜麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-22",
+    "maturityDate": "2027-04-22",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 2513.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "2513",
+        "name": "CMHI FIN N1503",
+        "nameZh": "CMHI FIN N1503",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28373",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
   }
 ]

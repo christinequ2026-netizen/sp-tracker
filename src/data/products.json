@@ -1,5 +1,241 @@
 [
   {
+    "id": "SGX-NEW-EPGW",
+    "productName": "UOB MB ePW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-22",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 22000000.0,
+    "strike": 34.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "30:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "U11",
+        "name": "U11",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=EPGW",
+    "scrapedAt": "2026-04-20T02:57:26.326045",
+    "lastUpdated": "2026-04-20T02:57:26.326045"
+  },
+  {
+    "id": "SGX-NEW-HSEW",
+    "productName": "HSI 23800MBeCW261029",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-22",
+    "maturityDate": "2026-10-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 60000000.0,
+    "strike": 23800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "3500:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=HSEW",
+    "scrapedAt": "2026-04-20T02:57:26.326068",
+    "lastUpdated": "2026-04-20T02:57:26.326068"
+  },
+  {
+    "id": "SGX-NEW-PUHW",
+    "productName": "HSI 28200MBePW261029",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-22",
+    "maturityDate": "2026-10-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 50000000.0,
+    "strike": 28200.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "3500:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=PUHW",
+    "scrapedAt": "2026-04-20T02:57:26.326075",
+    "lastUpdated": "2026-04-20T02:57:26.326075"
+  },
+  {
+    "id": "SGX-NEW-Y2FW",
+    "productName": "UOB MB eCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-22",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 38.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "30:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "U11",
+        "name": "U11",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=Y2FW",
+    "scrapedAt": "2026-04-20T02:57:26.326080",
+    "lastUpdated": "2026-04-20T02:57:26.326080"
+  },
+  {
+    "id": "HKEX-28369",
+    "productName": "HK Warrant 28369 CALL 白馬戶外媒體",
+    "productNameZh": "稀宇麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-22",
+    "maturityDate": "2027-04-22",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 2468.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0100",
+        "name": "白馬戶外媒體",
+        "nameZh": "白馬戶外媒體",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28369",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
+  },
+  {
+    "id": "HKEX-28373",
+    "productName": "HK Warrant 28373 CALL CMHI FIN N1503",
+    "productNameZh": "智譜麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-22",
+    "maturityDate": "2027-04-22",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 2513.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "2513",
+        "name": "CMHI FIN N1503",
+        "nameZh": "CMHI FIN N1503",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28373",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-20T02:57:26.826792Z"
+  },
+  {
     "id": "HKEX-28318",
     "productName": "HK Warrant 28318 PUT 吉利汽車",
     "productNameZh": "吉利麥銀六十沽A",
