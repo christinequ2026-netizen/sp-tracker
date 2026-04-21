@@ -1994,10 +1994,10 @@
       "Macquarie",
       "Put"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28318",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28318",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-20T09:04:44.575331Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260417162015.pdf",
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
   },
   {
     "id": "HKEX-28320",
@@ -2034,10 +2034,10 @@
       "Macquarie",
       "Put"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28320",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28320",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-20T09:04:44.575331Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260417162015.pdf",
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
   },
   {
     "id": "HKEX-28332",
@@ -2074,10 +2074,10 @@
       "Macquarie",
       "Put"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28332",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28332",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-20T09:04:44.575331Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260417162015.pdf",
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
   },
   {
     "id": "HKEX-28369",
@@ -2117,7 +2117,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28369",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-20T09:04:44.575331Z"
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
   },
   {
     "id": "HKEX-28373",
@@ -2157,6 +2157,166 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28373",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-20T09:04:44.575331Z"
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
+  },
+  {
+    "id": "HKEX-28431",
+    "productName": "HK Warrant 28431 CALL 國泰航空",
+    "productNameZh": "國泰麥銀七七購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-23",
+    "maturityDate": "2027-04-23",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 15.293,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.2,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0293",
+        "name": "國泰航空",
+        "nameZh": "國泰航空",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28431",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
+  },
+  {
+    "id": "HKEX-28432",
+    "productName": "HK Warrant 28432 CALL 中國人民保險集團",
+    "productNameZh": "人保麥銀六甲購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-23",
+    "maturityDate": "2027-04-23",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 7.488,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 1.0,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1339",
+        "name": "中國人民保險集團",
+        "nameZh": "中國人民保險集團",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28432",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
+  },
+  {
+    "id": "HKEX-28433",
+    "productName": "HK Warrant 28433 CALL 中國財險",
+    "productNameZh": "中險麥銀六乙購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-23",
+    "maturityDate": "2027-04-23",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 18.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.2,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "2328",
+        "name": "中國財險",
+        "nameZh": "中國財險",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28433",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
+  },
+  {
+    "id": "HKEX-28434",
+    "productName": "HK Warrant 28434 CALL 中國電力",
+    "productNameZh": "國電麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-23",
+    "maturityDate": "2027-04-23",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 4.688,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 1.0,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "2380",
+        "name": "中國電力",
+        "nameZh": "中國電力",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28434",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-21T02:51:09.673818Z"
   }
 ]
