@@ -1,5 +1,83 @@
 [
   {
+    "id": "SGX-NEW-TPWW",
+    "productName": "CityDev MBeCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-24",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 16000000.0,
+    "strike": 9.6,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "C09",
+        "name": "C09",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=TPWW",
+    "scrapedAt": "2026-04-22T02:50:00.088107",
+    "lastUpdated": "2026-04-22T02:50:00.088107"
+  },
+  {
+    "id": "SGX-NEW-XPAW",
+    "productName": "SembInd MBeCW260930",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-24",
+    "maturityDate": "2026-09-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 7.8,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "U96",
+        "name": "U96",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=XPAW",
+    "scrapedAt": "2026-04-22T02:50:00.088132",
+    "lastUpdated": "2026-04-22T02:50:00.088132"
+  },
+  {
     "id": "HKEX-28431",
     "productName": "HK Warrant 28431 CALL 國泰航空",
     "productNameZh": "國泰麥銀七七購A",

@@ -1,22 +1,22 @@
 {
-  "lastUpdated": "2026-04-21T08:28:26.203968",
-  "totalProducts": 105,
-  "activeProducts": 105,
+  "lastUpdated": "2026-04-22T02:50:02.792655",
+  "totalProducts": 107,
+  "activeProducts": 107,
   "knockedIn": 0,
-  "newToday": 0,
+  "newToday": 4,
   "byExchange": {
-    "hkex": 58,
-    "sgx": 47
+    "sgx": 49,
+    "hkex": 58
   },
   "byProductType": {
-    "warrant": 58,
-    "Warrant": 47
+    "Warrant": 49,
+    "warrant": 58
   },
   "byIssuer": {
-    "macquarie": 105
+    "macquarie": 107
   },
   "byCurrency": {
-    "HKD": 58,
-    "SGD": 47
+    "SGD": 49,
+    "HKD": 58
   }
 }

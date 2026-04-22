@@ -2114,10 +2114,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28369",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28369",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260420172342.pdf",
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   },
   {
     "id": "HKEX-28373",
@@ -2154,10 +2154,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28373",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28373",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260420172454.pdf",
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   },
   {
     "id": "HKEX-28431",
@@ -2197,7 +2197,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28431",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   },
   {
     "id": "HKEX-28432",
@@ -2237,7 +2237,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28432",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   },
   {
     "id": "HKEX-28433",
@@ -2277,7 +2277,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28433",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   },
   {
     "id": "HKEX-28434",
@@ -2317,6 +2317,6 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28434",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-21T08:28:24.059223Z"
+    "scrapedAt": "2026-04-22T02:50:00.665478Z"
   }
 ]
