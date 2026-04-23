@@ -1,5 +1,285 @@
 [
   {
+    "id": "HKEX-28492",
+    "productName": "HK Warrant 28492 CALL 華潤電力",
+    "productNameZh": "潤電麥銀七一購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 25.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0836",
+        "name": "華潤電力",
+        "nameZh": "華潤電力",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28492",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28477",
+    "productName": "HK Warrant 28477 CALL ASM",
+    "productNameZh": "太科麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 199.999,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.01,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0522",
+        "name": "ASM",
+        "nameZh": "ASM",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28477",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28476",
+    "productName": "HK Warrant 28476 CALL 老鋪黃金",
+    "productNameZh": "老鋪麥銀七六購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 888.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.002,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "6181",
+        "name": "老鋪黃金",
+        "nameZh": "老鋪黃金",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28476",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28475",
+    "productName": "HK Warrant 28475 CALL 閱文集團",
+    "productNameZh": "閱文麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 41.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0772",
+        "name": "閱文集團",
+        "nameZh": "閱文集團",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28475",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28474",
+    "productName": "HK Warrant 28474 CALL 嗶哩嗶哩",
+    "productNameZh": "嗶哩麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 246.8,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.01,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "9626",
+        "name": "嗶哩嗶哩",
+        "nameZh": "嗶哩嗶哩",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28474",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28473",
+    "productName": "HK Warrant 28473 CALL 建滔積層板",
+    "productNameZh": "建板麥銀六十購B",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 49.999,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1888",
+        "name": "建滔積層板",
+        "nameZh": "建滔積層板",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28473",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
+    "id": "HKEX-28489",
+    "productName": "HK Warrant 28489 CALL 建滔化工",
+    "productNameZh": "建滔麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-27",
+    "maturityDate": "2027-04-27",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 73.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.1,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "0148",
+        "name": "建滔化工",
+        "nameZh": "建滔化工",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28489",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-23T02:52:46.026646Z"
+  },
+  {
     "id": "SGX-NEW-TPWW",
     "productName": "CityDev MBeCW260930",
     "productType": "Warrant",
