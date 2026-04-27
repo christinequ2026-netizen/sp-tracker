@@ -2357,7 +2357,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28492",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184221.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28477",
@@ -2397,7 +2397,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28477",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184221.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28476",
@@ -2437,7 +2437,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28476",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184153.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28475",
@@ -2477,7 +2477,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28475",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184153.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28474",
@@ -2517,7 +2517,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28474",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184153.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28473",
@@ -2557,7 +2557,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28473",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184153.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28489",
@@ -2597,7 +2597,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28489",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260423184221.pdf",
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28505",
@@ -2636,8 +2636,8 @@
     ],
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28505",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260424170712.pdf",
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28495",
@@ -2676,8 +2676,8 @@
     ],
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28495",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260424170712.pdf",
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28494",
@@ -2716,8 +2716,8 @@
     ],
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28494",
     "sourceExchange": "hkex",
-    "termSheetUrl": null,
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260424170712.pdf",
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28525",
@@ -2757,7 +2757,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28525",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   },
   {
     "id": "HKEX-28526",
@@ -2797,6 +2797,6 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28526",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-27T03:24:33.959937Z"
+    "scrapedAt": "2026-04-27T09:13:27.238512Z"
   }
 ]
