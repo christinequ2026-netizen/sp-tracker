@@ -1,5 +1,202 @@
 [
   {
+    "id": "SGX-NEW-93ZW",
+    "productName": "Geely MB ePW261005",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-30",
+    "maturityDate": "2026-10-05",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 20.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "8:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "0175.HK",
+        "name": "0175.HK",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=93ZW",
+    "scrapedAt": "2026-04-28T03:30:39.277407",
+    "lastUpdated": "2026-04-28T03:30:39.277407"
+  },
+  {
+    "id": "SGX-NEW-HJLW",
+    "productName": "Geely MB eCW261005",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-30",
+    "maturityDate": "2026-10-05",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 20000000.0,
+    "strike": 28.5,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "8:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "0175.HK",
+        "name": "0175.HK",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=HJLW",
+    "scrapedAt": "2026-04-28T03:30:39.277430",
+    "lastUpdated": "2026-04-28T03:30:39.277430"
+  },
+  {
+    "id": "SGX-NEW-KZDW",
+    "productName": "KeppelMBeCW261015",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-04-30",
+    "maturityDate": "2026-10-15",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 12000000.0,
+    "strike": 13.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "BN4",
+        "name": "BN4",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=KZDW",
+    "scrapedAt": "2026-04-28T03:30:39.277437",
+    "lastUpdated": "2026-04-28T03:30:39.277437"
+  },
+  {
+    "id": "HKEX-28563",
+    "productName": "HK Warrant 28563 CALL 長城汽車",
+    "productNameZh": "長汽麥銀六乙購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-30",
+    "maturityDate": "2027-04-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 16.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.2,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "2333",
+        "name": "長城汽車",
+        "nameZh": "長城汽車",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28563",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-28T03:30:39.812414Z"
+  },
+  {
+    "id": "HKEX-28564",
+    "productName": "HK Warrant 28564 CALL 華虹半導體",
+    "productNameZh": "華虹麥銀六十購A",
+    "productType": "warrant",
+    "exchange": "hkex",
+    "issuer": "macquarie",
+    "issuerName": "Macquarie",
+    "currency": "HKD",
+    "status": "active",
+    "issueDate": "2026-04-30",
+    "maturityDate": "2027-04-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": null,
+    "strikeLevel": 188.888,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "conversionRatio": 0.02,
+    "callPut": "call",
+    "underlyings": [
+      {
+        "ticker": "1347",
+        "name": "華虹半導體",
+        "nameZh": "華虹半導體",
+        "type": "equity"
+      }
+    ],
+    "worstOf": false,
+    "tags": [
+      "HKEX",
+      "Warrant",
+      "Macquarie",
+      "Call"
+    ],
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28564",
+    "sourceExchange": "hkex",
+    "termSheetUrl": null,
+    "scrapedAt": "2026-04-28T03:30:39.812414Z"
+  },
+  {
     "id": "SGX-NEW-LNRW",
     "productName": "HSI 23800MBePW260629",
     "productType": "Warrant",
