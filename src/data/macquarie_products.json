@@ -2754,10 +2754,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28525",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28525",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260427170319.pdf",
-    "scrapedAt": "2026-04-28T09:14:35.000166Z"
+    "scrapedAt": "2026-04-29T03:29:11.931490Z"
   },
   {
     "id": "HKEX-28526",
@@ -2794,10 +2794,10 @@
       "Macquarie",
       "Call"
     ],
-    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28526",
+    "sourceUrl": "https://www.warrants.com.hk/tc/warrant/indicator/code/28526",
     "sourceExchange": "hkex",
     "termSheetUrl": "https://www.warrants.com.hk/home/hkexdoc/ch/Warrant/mq/pdf/20260427170319.pdf",
-    "scrapedAt": "2026-04-28T09:14:35.000166Z"
+    "scrapedAt": "2026-04-29T03:29:11.931490Z"
   },
   {
     "id": "HKEX-28563",
@@ -2837,7 +2837,7 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28563",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-28T09:14:35.000166Z"
+    "scrapedAt": "2026-04-29T03:29:11.931490Z"
   },
   {
     "id": "HKEX-28564",
@@ -2877,6 +2877,6 @@
     "sourceUrl": "https://www.warrants.com.hk/tc/warrant/new-issue#28564",
     "sourceExchange": "hkex",
     "termSheetUrl": null,
-    "scrapedAt": "2026-04-28T09:14:35.000166Z"
+    "scrapedAt": "2026-04-29T03:29:11.931490Z"
   }
 ]
