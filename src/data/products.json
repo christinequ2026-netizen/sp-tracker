@@ -1,5 +1,83 @@
 [
   {
+    "id": "SGX-NEW-IYUW",
+    "productName": "S&P 7000MBePW260918",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-05-05",
+    "maturityDate": "2026-09-18",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 22000000.0,
+    "strike": 7000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "4000:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".SPX",
+        "name": "SPX",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=IYUW",
+    "scrapedAt": "2026-04-30T03:30:36.836032",
+    "lastUpdated": "2026-04-30T03:30:36.836032"
+  },
+  {
+    "id": "SGX-NEW-YVJW",
+    "productName": "NASDAQ 26000MBePW260918",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-05-05",
+    "maturityDate": "2026-09-18",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 25000000.0,
+    "strike": 26000.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "20000:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".NDX",
+        "name": "NDX",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Put"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YVJW",
+    "scrapedAt": "2026-04-30T03:30:36.836053",
+    "lastUpdated": "2026-04-30T03:30:36.836053"
+  },
+  {
     "id": "SGX-NEW-93ZW",
     "productName": "Geely MB ePW261005",
     "productType": "Warrant",
