@@ -1,5 +1,122 @@
 [
   {
+    "id": "SGX-NEW-9Y2W",
+    "productName": "HSI 26800MBeCW260629",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-05-06",
+    "maturityDate": "2026-06-29",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 28000000.0,
+    "strike": 26800.0,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "1200:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": ".HSI",
+        "name": "HSI",
+        "exchange": "",
+        "type": "index"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=9Y2W",
+    "scrapedAt": "2026-05-04T03:31:04.537711",
+    "lastUpdated": "2026-05-04T03:31:04.537711"
+  },
+  {
+    "id": "SGX-NEW-NWVW",
+    "productName": "Wilmar MB eCW261130",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-05-06",
+    "maturityDate": "2026-11-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 18000000.0,
+    "strike": 4.2,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "F34",
+        "name": "F34",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=NWVW",
+    "scrapedAt": "2026-05-04T03:31:04.537733",
+    "lastUpdated": "2026-05-04T03:31:04.537733"
+  },
+  {
+    "id": "SGX-NEW-YFQW",
+    "productName": "SingtelMBeCW261030",
+    "productType": "Warrant",
+    "exchange": "sgx",
+    "issuer": "macquarie",
+    "issuerFull": "MACQUARIE BANK LIMITED",
+    "currency": "SGD",
+    "status": "active",
+    "issuanceDate": "2026-05-06",
+    "maturityDate": "2026-10-30",
+    "couponRate": null,
+    "couponFrequency": null,
+    "notional": 18000000.0,
+    "strike": 4.9,
+    "knockInLevel": null,
+    "knockOutLevel": null,
+    "autocallBarrier": null,
+    "barrierType": null,
+    "conversionRatio": "15:1",
+    "leverageFactor": null,
+    "underlyings": [
+      {
+        "code": "Z74",
+        "name": "Z74",
+        "exchange": "",
+        "type": "stock"
+      }
+    ],
+    "tags": [
+      "SGX",
+      "Warrant",
+      "NewListing",
+      "Call"
+    ],
+    "sourceUrl": "https://www.sgx.com/securities/securities-prices?code=YFQW",
+    "scrapedAt": "2026-05-04T03:31:04.537740",
+    "lastUpdated": "2026-05-04T03:31:04.537740"
+  },
+  {
     "id": "SGX-NEW-IYUW",
     "productName": "S&P 7000MBePW260918",
     "productType": "Warrant",
